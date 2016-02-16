@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./epistolaeadattic02ciceuoft_0002.png"; bbox 0 0 1795 3043; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 17 1502 1523 1591">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 17 1488 1523 1622">
+     <span class='ocr_line' id='line_1_1' title="bbox 17 1502 1523 1591; baseline -0.003 1"><span class='ocrx_word' id='word_1_1' title='bbox 17 1502 22 1509; x_wconf 83' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 361 1526 704 1591; x_wconf 69' lang='lat' dir='ltr'><strong>anLEcTED</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 761 1525 832 1587; x_wconf 72' lang='grc' dir='ltr'>ΒΥ</span> <span class='ocrx_word' id='word_1_4' title='bbox 887 1524 1168 1588; x_wconf 73' lang='lat' dir='ltr'><strong>cHARLsss</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1227 1513 1523 1587; x_wconf 53' lang='grc' dir='ltr'>ΑΝΨΗΟΝἱ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 488 1637 1524 1739">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 488 1637 1524 1739">
+     <span class='ocr_line' id='line_1_2' title="bbox 488 1637 1522 1677; baseline -0.006 -8"><span class='ocrx_word' id='word_1_6' title='bbox 488 1641 654 1669; x_wconf 68' lang='lat' dir='ltr'><strong>Profes</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 659 1649 734 1668; x_wconf 99' lang='grc'>051·</span> <span class='ocrx_word' id='word_1_8' title='bbox 769 1641 820 1668; x_wconf 90' lang='lat' dir='ltr'>of</span> <span class='ocrx_word' id='word_1_9' title='bbox 847 1638 1010 1667; x_wconf 77' lang='lat' dir='ltr'>Greek</span> <span class='ocrx_word' id='word_1_10' title='bbox 1040 1639 1128 1665; x_wconf 70' lang='lat' dir='ltr'>aad</span> <span class='ocrx_word' id='word_1_11' title='bbox 1164 1638 1302 1665; x_wconf 83' lang='lat' dir='ltr'>Latin</span> <span class='ocrx_word' id='word_1_12' title='bbox 1339 1637 1382 1664; x_wconf 88' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_13' title='bbox 1520 1671 1522 1677; x_wconf 19' lang='grc' dir='ltr'>λ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 697 1706 1524 1739; baseline -0.006 -3"><span class='ocrx_word' id='word_1_14' title='bbox 697 1707 908 1736; x_wconf 85' lang='lat' dir='ltr'>Columbi</span> <span class='ocrx_word' id='word_1_15' title='bbox 897 1716 938 1734; x_wconf 78' lang='lat' dir='ltr'>la</span> <span class='ocrx_word' id='word_1_16' title='bbox 975 1706 1101 1735; x_wconf 82' lang='lat' dir='ltr'>Colle</span> <span class='ocrx_word' id='word_1_17' title='bbox 1105 1715 1157 1739; x_wconf 68' lang='lat' dir='ltr'>go</span> <span class='ocrx_word' id='word_1_18' title='bbox 1519 1716 1524 1739; x_wconf 63' lang='lat'><em>5</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1795 3043">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1795 3043">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1795 3043; baseline 0 0"><span class='ocrx_word' id='word_1_19' title='bbox 0 0 1795 3043; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
